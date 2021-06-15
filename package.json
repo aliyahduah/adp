@@ -5,6 +5,9 @@
   "main": "src/app.js",
   "author": "Aliyah Duah",
   "license": "ISC",
+  "scripts": {
+    "start": "node ."
+  },
   "dependencies": {
     "express": "^4.17.1"
   },
