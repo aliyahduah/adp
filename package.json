@@ -1,0 +1,11 @@
+{
+  "name": "adp",
+  "version": "8.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "author": "Aliyah Duah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
